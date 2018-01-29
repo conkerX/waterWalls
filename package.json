@@ -1,0 +1,22 @@
+{
+  "name": "waterwalls",
+  "version": "1.0.0",
+  "description": "Determine which two walls have the most water trapped between them, and exactly how much water that is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conkerX/waterWalls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conkerX/waterWalls/issues"
+  },
+  "homepage": "https://github.com/conkerX/waterWalls#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
